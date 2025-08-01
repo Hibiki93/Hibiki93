@@ -24,7 +24,6 @@ I’m a multi-language full stack developer passionate about building clean, sca
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
 
 ### Frontend  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)  
@@ -32,6 +31,7 @@ I’m a multi-language full stack developer passionate about building clean, sca
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 
 ### Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
