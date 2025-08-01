@@ -32,18 +32,18 @@ I'm a **Full Stack Developer** who loves building efficient, scalable, and clean
 
 ## 📈 GitHub Stats
 
-![Kuze's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Kuze's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibik93_icons=true&theme=github_dark)
 
 <!-- Optional: add top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki93e&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 [yourwebsite.com](https://yourwebsite.com)
-- 📧 your@email.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [yourwebsite.com](https://hibiki93.github.io/resume/)
+- 📧 yue-555@hotmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/eric-pang-648bb1170/)
 
 ---
 
