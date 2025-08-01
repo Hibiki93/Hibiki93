@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kuze Hibiki
+# 👋 Hello, I'm Kuze Hibiki 
 
 🚀 Full Stack Developer | E-commerce Systems Specialist  
 💻 I build fast, scalable, and secure web applications — from backend APIs to stunning user interfaces.
