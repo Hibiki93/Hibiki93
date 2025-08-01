@@ -16,11 +16,11 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable, an
 ## 🛠️ Tech Stack
 
 ### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
@@ -47,26 +47,6 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable, an
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
-<details>
-<summary>🌙 Dark Mode</summary>
-
-![GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=hibiki93&show_icons=true&theme=github_dark)
-![Top Languages (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki93&layout=compact&theme=github_dark)
-
-</details>
-
-<details>
-<summary>☀️ Light Mode</summary>
-
-![GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=hibiki93&show_icons=true&theme=default)
-![Top Languages (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki93&layout=compact&theme=default)
-
-</details>
 
 ---
 
