@@ -48,9 +48,6 @@
 
 | <img src="https://github-readme-stats.vercel.app/api?username=hibiki93&show_icons=true&theme=github_dark" width="48%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki93&layout=compact&theme=github_dark" width="48%"> |
 |--|--|
-
-<sup>🌗 Toggle theme manually by editing `theme=github_dark` to `theme=default` above.</sup>
-
 ---
 
 ## 📫 Connect with Me
