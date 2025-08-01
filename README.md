@@ -32,10 +32,10 @@ I'm a **Full Stack Developer** who loves building efficient, scalable, and clean
 
 ## 📈 GitHub Stats
 
-![Kuze's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibik93_icons=true&theme=github_dark)
+![Kuze's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibik93&icons=true&theme=github_dark)
 
 <!-- Optional: add top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki93e&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki93&layout=compact)
 
 ---
 
