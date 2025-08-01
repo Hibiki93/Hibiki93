@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kuze Hibiki
 
-<!--
-**Hibiki93/Hibiki93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** who loves building efficient, scalable, and clean applications. I specialize in both frontend and backend development using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on: exciting full-stack web applications
+- 🌱 Learning more about **DevOps** and **AI integrations**
+- 💬 Ask me about **JavaScript**, **Node.js**, **Vue**, **React**, **Python**, or **PHP**
+- ⚡ Fun fact: I write backend APIs in Python and PHP just as fast as I build UIs in Vue or React.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Kuze's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+<!-- Optional: add top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [yourwebsite.com](https://yourwebsite.com)
+- 📧 your@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+<!-- Optional: add a quote or fun section -->
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
