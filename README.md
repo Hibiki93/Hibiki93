@@ -50,6 +50,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
 
+### 📦 Package Managers
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=black)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)
+
 ---
 
 ## 📫 Let's Connect
