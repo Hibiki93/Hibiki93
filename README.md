@@ -27,21 +27,22 @@ I'm a **Full Stack Developer** who loves building efficient, scalable, and clean
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Kuze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibik93&show_icons=true&theme=default)
-
 <!-- Optional: add top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki93&layout=compact)
+
+[![Switch Theme](https://img.shields.io/badge/Theme-Light_&_Dark-important?style=for-the-badge&logo=github)](https://github-readme-stats.vercel.app/api?username=hibiki93&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 [yourwebsite.com](https://hibiki93.github.io/resume/)
+- 🌐 [My Resume Website](https://hibiki93.github.io/resume/)
 - 📧 yue-555@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-pang-648bb1170/)
 
