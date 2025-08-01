@@ -47,15 +47,6 @@ I’m a multi-language full stack developer passionate about building clean, sca
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hibiki93&show_icons=true&theme=radical" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki93&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 🌐 [Portfolio](https://hibiki93.github.io/resume/)
